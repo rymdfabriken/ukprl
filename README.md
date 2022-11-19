@@ -3,6 +3,6 @@
 This project is intended to make information available for references (past and future).
 
 ## Credits
-Created by rf_labs without commercial or political affilitation with anyone.
+Created by rf_labs without any commercial or political affilitation to anyone else.
 
 rf_labs is a part of Rymdfabriken 
